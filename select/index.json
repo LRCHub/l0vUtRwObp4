@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Sleepwalk",
+  "base_artist": "natori",
+  "createdAt": "2026-02-08T16:06:08.470516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sleepwalk",
+      "artist": "Ultravox",
+      "has_synced": true,
+      "path": "select/01_Sleepwalk_Ultravox.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sleepwalk - 2008 Remaster",
+      "artist": "Ultravox",
+      "has_synced": true,
+      "path": "select/02_Sleepwalk_-_2008_Remaster_Ultravox.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sleepwalk (feat. R. Williams)",
+      "artist": "Christian Death feat. R.Williams",
+      "has_synced": true,
+      "path": "select/03_Sleepwalk_(feat._R._Williams)_Christian_Death_feat._R.Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sleepwalk (feat. R. Williams)",
+      "artist": "Christian Death",
+      "has_synced": true,
+      "path": "select/04_Sleepwalk_(feat._R._Williams)_Christian_Death.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sleepwalk",
+      "artist": "Jeff Beck",
+      "has_synced": false,
+      "path": "select/05_Sleepwalk_Jeff_Beck.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleepwalk",
+      "artist": "Ultravox",
+      "has_synced": true,
+      "path": "select/06_Sleepwalk_Ultravox.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sleepwalk My Life Away",
+      "artist": "Metallica",
+      "has_synced": true,
+      "path": "select/07_Sleepwalk_My_Life_Away_Metallica.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sleepwalk (2008 Remaster)",
+      "artist": "Ultravox",
+      "has_synced": true,
+      "path": "select/08_Sleepwalk_(2008_Remaster)_Ultravox.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SLEEPWALK",
+      "artist": "Mothica",
+      "has_synced": true,
+      "path": "select/09_SLEEPWALK_Mothica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sleepwalk Capsules",
+      "artist": "At The Drive In",
+      "has_synced": true,
+      "path": "select/10_Sleepwalk_Capsules_At_The_Drive_In.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sleepwalk",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_Sleepwalk_なとり.txt"
+    }
+  ]
+}
